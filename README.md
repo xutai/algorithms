@@ -1,5 +1,6 @@
 > learn js algorithms and take note
 
+支持up，给github个加星哈
 
 run
 ```
